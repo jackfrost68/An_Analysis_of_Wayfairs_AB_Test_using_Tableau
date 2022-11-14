@@ -11,7 +11,7 @@ Wayfair is a leading e-commerce platform that has garnered market share over the
 
 *What’s the composition of users by platform?*
 
-![This is an image](https://github.com/jackfrost68/Kickstarter-analysis/blob/7edd40c204fa336c1018b9e85d6f51bd40ce77f1/Screen%20Shot%202021-10-24%20at%202.51.33%20PM.png)
+![This is an image](https://github.com/jackfrost68/Wayfair-/blob/5a84bfae3125e924b60da87335ee43024b5c1b7d/Screenshot%202022-11-13%20at%207.49.41%20PM.png)
 
 
 From this visualization, we can deduce that about 75% of Wayfair’s revenue comes from users who browsed or shopped from a desktop and 25% from a web-enabled mobile device. 
