@@ -23,7 +23,7 @@ This visualization can help inform Wayfair management to prioritize the optimiza
 
 *What is the fraction of orders that arrived late and were shown the guaranteed delivery?*
 
-![This is an image](https://github.com/jackfrost68/Kickstarter-analysis/blob/7edd40c204fa336c1018b9e85d6f51bd40ce77f1/Screen%20Shot%202021-10-24%20at%202.51.33%20PM.png)
+![This is an image](https://github.com/jackfrost68/Wayfair-/blob/180c585b433e256cb2115b3245d058af85418810/Screenshot%202022-11-13%20at%207.50.08%20PM.png)
 
 
 The visualization above shows that generally, most orders were delivered on time, regardless of whether a customer was shown the guaranteed delivery or not. 
