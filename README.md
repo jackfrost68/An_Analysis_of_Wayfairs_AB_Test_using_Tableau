@@ -35,7 +35,8 @@ Based on the visualization, we can deduce that the campaign was successful becau
 
 *How did the campaign affect different visitor types?*
 
-![This is an image](https://github.com/jackfrost68/Kickstarter-analysis/blob/7edd40c204fa336c1018b9e85d6f51bd40ce77f1/Screen%20Shot%202021-10-24%20at%202.51.33%20PM.png)
+![This is an image](https://github.com/jackfrost68/Wayfair-/blob/5168e7042227b25aad870f6bf30f76be645f3e8c/Screenshot%202022-11-13%20at%207.49.54%20PM.png)
+
 The visualization above shows how the guaranteed delivery campaign was spread out across different visitor types by revenue. While the changes from the benchmark/baseline of 33% are not too drastic, the differences can let us know if the campaign was successful. I would argue that Wayfair could have gained more customers by showing returning visitors the guaranteed delivery banner and prioritizing having their orders delivered on time or even a bit earlier. 
 
 Additionally, I would argue that for Wayfair to have a successful campaign, they needed to experiment more with acquired members, especially in this case where if they failed to deliver their promise on time, there could be fewer repercussions.
